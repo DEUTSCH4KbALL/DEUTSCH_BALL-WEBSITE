@@ -1,0 +1,52 @@
+body{
+    background-image: url("_8d33e7a6-b828-4e86-9494-2fb28a28f568.jpg");
+}
+button {
+border: none;
+background: #4070f4;
+padding: 16px 30px;
+color: #fff;
+border-radius: 6px;
+transition: 0.2s;
+}
+button:hover
+{
+box-shadow: 0 0 0 4px #fff,
+0 0 0 8px #4070f4;
+}
+
+h1
+{
+    color: lime;
+}
+#first_line
+{
+    color:lime;
+}
+a
+{
+    color: white;
+    font-size: 32px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: bolder;
+    background-color: #4070f4;
+    border: solid 4px #4070f4;
+    border-radius: 8px;
+    padding: 0 24px 0 24px;
+    margin: 0 10px 0 0;
+}
+#link_my_Yt
+{
+    color:blue;
+}
+h1:hover
+{
+    text-shadow: red -3px 0,
+                 cyan 3px 0;
+}
+#my_photoOnCircle:hover
+{
+    transition: all 2s;
+    border-radius: 75px;
+}
